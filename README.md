@@ -19,3 +19,5 @@
 #### Start the development server:
 
 ``` npm run dev ```
+
+![Light Mode]([https://github.com/B2Kumar03/project_Image/blob/main/Screenshot%202025-05-29%20184852.png?raw=true) | ![Dark Mode](https://github.com/B2Kumar03/project_Image/blob/main/Screenshot%202025-05-29%20184836.png?raw=true](https://github.com/B2Kumar03/project_Image/blob/main/Screenshot%202025-07-07%20165644.png?raw=true)) |
